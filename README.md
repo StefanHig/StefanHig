@@ -6,4 +6,4 @@ I was previously associated with [The Praxis Studio for Comparative Media Studie
 
 I'm an [amateur photographer](https://stfn.work/photography/). I like to read about how digital cameras work. And I love to cook.
 
-If you'd like to get in touch with me to chat further, you can reach me at <stef18@shaw.ca>
+If you'd like to get in touch with me to chat further, you can reach me at <stefanachiggins@gmail.com>
