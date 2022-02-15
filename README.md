@@ -1,11 +1,8 @@
-Hi, I'm Stefan. You can also find me at [stfn.work](https://stfn.work/). I'm a researcher and communicator on technology and the ethics of technology, combining technical, design-based, and social science perspectives. 
-I have experience in qualitative and quantitative academic and public research, technical infrastructure support, and communications, and I was previously an interdisciplinary academic researcher with a focus in English, media and technology, and data.
+Hi, I'm Stefan. You can also find me at [stfn.work](https://stfn.work/). I'm a researcher and technical communicator on technology and the ethics of technology, combining technical, design-based, and social science perspectives. 
 
-I've recently been expanding my knowledge of data infrastructure(s) and their programming:
-- I took a [Google Data Analytics Professional Certificate](https://www.credly.com/badges/f97374f6-44b0-4e4f-b66e-ef21517b4d76?source=linked_in_profile) (spreadsheets, SQL, R)
-- Now I'm taking a programming course in Python to round out my ability to deal with (rather than just talk about) data structures
+I have experience in academic and public research and policy development, technical  support and technical writing, and customer service. Also knowledgeable in web development, general purpose programming, and data analysis.
 
-I was also previously associated with [The Praxis Studio for Comparative Media Studies](https://github.com/uvicpraxis) at the University of Victoria.
+I was previously associated with [The Praxis Studio for Comparative Media Studies](https://github.com/uvicpraxis) at the University of Victoria.
 
 I'm an [amateur photographer](https://stfn.work/photography/). I like to read about how digital cameras work. And I love to cook.
 
